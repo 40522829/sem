@@ -4,4 +4,4 @@
 
 # Adding a second text for test purposes
 
-![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/40522829/sem/actions/workflows/main.yml/badge.svg)
