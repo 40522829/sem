@@ -4,4 +4,5 @@
 
 # Adding a second text for test purposes
 
-![workflow](https://github.com/40522829/sem/actions/workflows/main.yml/badge.svg)
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/40522829/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop)
